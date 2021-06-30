@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 I am a fullstack software engineer from Maine
 - 🔭 Working on multiple frontend and backend project using React, Ruby on Rails, JavaScript, etc. 
 - 🌱 Learning algorithims and data structures in depth
+- 🚀 Improving my framework skills: Node.js, Express.js, Next.js
 - 👯 Looking to collaborate on any interesting projects using javascript or ruby based frameworks
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I'm conversational in Mandarin Chinese! 
