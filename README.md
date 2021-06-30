@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 I am a fullstack software engineer from Maine
-- 🔭 Working on multiple frontend and backend project using React, Ruby on Rails, JavaScript, Nodejs, etc. 
+- 🔭 Working on multiple frontend and backend project using React, Ruby on Rails, JavaScript, etc. 
 - 🌱 Learning algorithims and data structures in depth
 - 👯 Looking to collaborate on any interesting projects using javascript or ruby based frameworks
 - 😄 Pronouns: he/him
@@ -40,6 +40,6 @@ I am a fullstack software engineer from Maine
 <img align="left" alt="javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
 <img align="left" alt="sqlite" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
 <img align="left" alt="rails" src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white" />
-<img align="left" alt="git" src="	https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img align="left" alt="git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 <br>
 <br>
