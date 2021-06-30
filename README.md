@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello World 👋
 
 <!--
 **jcport1/jcport1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,11 +17,17 @@ Here are some ideas to get you started:
 
 I am a fullstack software engineer from Maine
 - 🔭 Working on multiple frontend and backend project using React, Ruby on Rails, JavaScript, Nodejs, etc. 
-- 🌱 Learning design patterns in depth
+- 🌱 Learning algorithims and data structures in depth
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I'm conversational in Mandarin Chinese! 
 <br>
+
 ## Connect with me
+
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/jeff-cuartas)
+
 [<img align="left" alt="medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://jefferson-cuartas.medium.com/)
+
 [<img align="left" alt="twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/jeff_the_coder)
 
 <br>
