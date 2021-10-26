@@ -15,11 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am a fullstack software engineer from Maine
+I am a fullstack software engineer from Maine and a current grade student pursuing a master's in computer science. 
 - 🔭 Working on multiple frontend and backend projects using React, Ruby on Rails, JavaScript, etc. 
 - 🌱 Learning algorithims and data structures in depth
 - 🚀 Improving my framework skills: Node.js, Express.js, Next.js
-- 👯 Looking to collaborate on any interesting projects using javascript or ruby based frameworks
+- 👯 Looking to collaborate on any interesting projects using javascript, python or ruby based frameworks
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I'm conversational in Mandarin Chinese! 
 <br>
@@ -39,6 +39,7 @@ I am a fullstack software engineer from Maine
 <img align="left" alt="react" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" />
 <img align="left" alt="ruby" src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" />
 <img align="left" alt="javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+<img align="left" alt="python" src="https://img.shields.io/badge/-python-brightgreen" />
 <img align="left" alt="sqlite" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
 <img align="left" alt="rails" src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white" />
 <img align="left" alt="git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
