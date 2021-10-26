@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am a fullstack software engineer from Maine and a current grade student pursuing a master's in computer science. 
+I am a fullstack software engineer from Maine and a current grad student pursuing a master's in computer science. 
 - 🔭 Working on multiple frontend and backend projects using React, Ruby on Rails, JavaScript, etc. 
 - 🌱 Learning algorithims and data structures in depth
 - 🚀 Improving my framework skills: Node.js, Express.js, Next.js
