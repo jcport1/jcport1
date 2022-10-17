@@ -16,10 +16,10 @@ Here are some ideas to get you started:
 -->
 
 I am a fullstack software engineer from Maine and a current grad student pursuing a master's in computer science. 
-- 🔭 Working on multiple frontend and backend projects using React, Ruby on Rails, JavaScript, etc. 
+- 🔭 Working on multiple frontend and backend projects using React, Python, JavaScript, etc. 
 - 🌱 Learning algorithims and data structures in depth
-- 🚀 Improving my framework skills: Node.js, Express.js, Next.js
-- 👯 Looking to collaborate on any interesting projects using javascript, python or ruby based frameworks
+- 🚀 Improving my framework skills: Node.js, Express.js
+- 👯 Looking to collaborate on any interesting projects using javascript or python frameworks
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I'm conversational in Mandarin Chinese! 
 <br>
