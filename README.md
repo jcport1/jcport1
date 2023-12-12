@@ -36,10 +36,10 @@ I am a software engineer from Maine and a current grad student pursuing a master
 ## Expertise
 <img align="left" alt="java" src="https://img.shields.io/badge/java-323330?style=for-the-badge&logo=java&logoColor=white" />
 <img align="left" alt="c" src="https://img.shields.io/badge/c-323330?style=for-the-badge&logo=c&logoColor=white" />
+<img align="left" alt="python" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=306998" />
+<img align="left" alt="javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
 <img align="left" alt="react" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" />
 <img align="left" alt="ruby" src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" />
-<img align="left" alt="javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-<img align="left" alt="python" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=306998" />
 <img align="left" alt="sql" src="https://img.shields.io/badge/SQL-323330?style=for-the-badge&logo=SQL&logoColor=white" />
 <img align="left" alt="rails" src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white" />
 <br>
