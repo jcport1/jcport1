@@ -22,7 +22,6 @@ I am a software engineer from Maine and a current grad student pursuing a master
 - 🚀 Interests in ML/AI/Cloud Computing
 - 📫 How to reach me: cuartas.j@northeastern.edu
 - 👯 Looking to collaborate on any interesting open source projects
-- 😄 Pronouns: he/him
 - ⚡ Fun fact: I'm proficient in French and conversational in Mandarin Chinese! 
 <br>
 
