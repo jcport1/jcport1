@@ -15,13 +15,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am a fullstack software engineer from Maine and a current grad student pursuing a master's in computer science. 
-- 🔭 Currently working on frontend/backend projects using React
-- 🌱 Experience as a TA providing 1:1 tutoring on algorithims and data structures
-- 🚀 Interests in NPL/ML/AI
-- 👯 Looking to collaborate on any interesting projects using javascript or python frameworks
+I am a software engineer from Maine and a current grad student pursuing a master's in computer science with experience building cloud solutions, full stack web applications, and mobile applications. 
+- 👨‍💻 Internship experience as Software Engineering Intern at AWS
+- 🌱 Additional Experience as a TA providing 1:1 tutoring on algorithims and data structures
+- 🔭 Currently working on leveling up my cloud computing skills 
+- 🚀 Interests in ML/AI/Cloud Computing
+- 👯 Looking to collaborate on any interesting open source projects
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I'm conversational in Mandarin Chinese! 
+- ⚡ Fun fact: I'm proficient in French and conversational in Mandarin Chinese! 
 <br>
 
 ## Connect with me
