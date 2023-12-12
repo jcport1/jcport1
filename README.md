@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 I am a software engineer from Maine and a current grad student pursuing a master's in computer science with experience building cloud solutions, full stack web applications, and mobile applications. 
-- 👨‍💻 Internship experience as Software Engineering Intern at AWS
+- 👨‍💻 Internship experience as a Software Engineering Intern at Amazon Web Services (AWS)
 - 🌱 Additional Experience as a TA providing 1:1 tutoring on algorithims and data structures
 - 🔭 Currently working on leveling up my cloud computing skills 
 - 🚀 Interests in ML/AI/Cloud Computing
