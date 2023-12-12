@@ -20,6 +20,7 @@ I am a software engineer from Maine and a current grad student pursuing a master
 - 🌱 Additional Experience as a TA providing 1:1 tutoring on algorithims and data structures
 - 🔭 Currently working on leveling up my cloud computing skills 
 - 🚀 Interests in ML/AI/Cloud Computing
+- 📫 How to reach me: cuartas.j@northeastern.edu
 - 👯 Looking to collaborate on any interesting open source projects
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I'm proficient in French and conversational in Mandarin Chinese! 
@@ -28,10 +29,6 @@ I am a software engineer from Maine and a current grad student pursuing a master
 ## Connect with me
 
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/jeff-cuartas)
-
-[<img align="left" alt="medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://jefferson-cuartas.medium.com/)
-
-[<img align="left" alt="twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/jeff_the_coder)
 
 <br>
 <br>
