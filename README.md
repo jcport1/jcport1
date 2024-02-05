@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 ## 💫 About Me:
 
-I am a software engineer from Maine and a final-year grad student at Northeastern University pursuing a master's in computer science. I am passionate and highly driven software engineer with experience building cloud solutions, full stack web applications, and mobile applications. 
+I am a software engineer from Maine and a final-year grad student at Northeastern University pursuing a master's in computer science. I am a passionate and highly driven software engineer with experience building cloud solutions, full stack web applications, and mobile applications. 
 
 - 👨‍💻 Internship experience as a Software Engineering Intern at Amazon Web Services (AWS)
 - 🌱 Additional Experience as a TA providing 1:1 tutoring on algorithims and data structures
@@ -27,7 +27,7 @@ I am a software engineer from Maine and a final-year grad student at Northeaster
 ## 🚀 What I'm Up To
 - 🤖 Exploring machine learning with [scikit-learn](https://scikit-learn.org/)
 - 💻 Building fullstack applications with React and mongoDB
-- ☁️ Leveling up my cloud computing skills and studying for AWS Certified Solutions Architect - Associate exam
+- ☁️ Leveling up my cloud computing skills and studying for the AWS Certified Solutions Architect - Associate exam
 
 ## 🌐 Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jeff-cuartas/)
