@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## About Me:
+## 💫 About Me:
 
 I am a software engineer from Maine and a final-year grad student at Northeastern University pursuing a master's in computer science. I am passionate and highly driven software engineer with experience building cloud solutions, full stack web applications, and mobile applications. 
 
@@ -23,14 +23,13 @@ I am a software engineer from Maine and a final-year grad student at Northeaster
 - 📫 How to reach me: cuartas.j@northeastern.edu
 - 👯 Looking to collaborate on any interesting open source projects
 - ⚡ Fun fact: I'm proficient in French and conversational in Mandarin Chinese! 
-<br>
 
 ## 🚀 What I'm Up To
 - 🤖 Exploring machine learning with [scikit-learn](https://scikit-learn.org/)
 - 💻 Building fullstack applications with React and mongoDB
 - ☁️ Leveling up my cloud computing skills and studying for AWS Certified Solutions Architect - Associate exam
 
-## Connect with me
+## 🌐 Connect with me
 
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/jeff-cuartas)
 
