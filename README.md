@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 ## 💫 About Me:
 
-I am a software engineer from Maine and a final-year grad student at Northeastern University pursuing a master's in computer science. I am a passionate and highly driven software engineer with experience building cloud solutions, full stack web applications, and mobile applications. 
+I am a software engineer from Maine and a final-year grad student at Northeastern University pursuing a master's in computer science. I am a passionate and highly driven software engineer with experience building cloud solutions, full stack web applications, and machine learning web applications. 
 
 - 👨‍💻 Internship experience as a Software Engineering Intern at Amazon Web Services (AWS)
 - ☁️ AWS Certified Cloud Practitioner
