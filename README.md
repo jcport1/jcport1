@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 I am a software engineer from Maine and a final-year grad student at Northeastern University pursuing a master's in computer science. I am a passionate and highly driven software engineer with experience building cloud solutions, full stack web applications, and mobile applications. 
 
 - 👨‍💻 Internship experience as a Software Engineering Intern at Amazon Web Services (AWS)
+- ☁️ AWS Certified Cloud Practitioner
 - 🌱 Additional Experience as a TA providing 1:1 tutoring on algorithims and data structures
 - 📫 How to reach me: cuartas.j@northeastern.edu
 - 👯 Looking to collaborate on any interesting open source projects
