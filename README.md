@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 
 I am a software engineer based in the Midwest with a passion for delivering high-quality, user-focused products. I hold a master's in computer science from Northeastern University. I am a highly driven software engineer with experience building cloud solutions, full stack web applications, and machine learning web applications. 
 
+- 💻 Software Engineer II at financial institution 
 - 👨‍💻 Internship experience as a Software Engineering Intern at Amazon Web Services (AWS)
 - ☁️ AWS Certified Cloud Practitioner
 - 🌱 Additional Experience as a TA providing 1:1 tutoring on algorithims and data structures
